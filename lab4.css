@@ -1,0 +1,57 @@
+#id1{
+    color: white;
+    background-color: blue;
+}
+
+.container{
+    background-color: lightgray;
+    color: black;
+}
+
+#id2{
+    color:red;
+}
+
+.highlight{
+    color: green;
+}
+
+.main-content{
+    background-color: yellow;
+}
+
+.center-text{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.h1-h6{
+    text-decoration: dashed underline;
+}
+
+.bold-text{
+    font-weight: bold;
+}
+
+#intro{
+    font-weight: 300;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+.custom-font{
+    font-family: 'Times New Roman', serif;
+}
+
+heading{
+    text-transform: uppercase;
+}
+
+.capitalize-text{
+    text-transform: capitalize;
+}
